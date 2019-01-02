@@ -1,3 +1,4 @@
 Welcome to Git tutorial!!! 
-We are learning git Fast-Forward merging concept
+We are learning Git Fast-Forward merging concept
 Now we are learning Git no FF merge concept
+This session is to understand git merge to resolve conflicts
