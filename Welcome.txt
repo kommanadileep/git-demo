@@ -1,2 +1,3 @@
 Welcome to Git tutorial!!! 
 We are learning git Fast-Forward merging concept
+Now we are learning Git no FF merge concept
