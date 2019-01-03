@@ -1,2 +1,2 @@
 # git-demo
-A basic project to demonastrate git
+A basic project to demonastrate git usage and commands.
